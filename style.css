@@ -1,0 +1,67 @@
+Header{
+    background-color: #F0FFF0;
+}
+.container{
+    margin-bottom: 50px;
+}
+
+
+.col-3{
+    height: 270px;
+    width: 270px;
+    border-radius: 10px;
+    margin: auto;
+    background-color:  #F0FFF0;
+}
+.active-div{
+    background-color: #FFFFFF;
+    box-shadow: 3px 3px 8px lightgrey;
+}
+.test-img{
+    height: 120px;
+    width: 120px;
+}
+.icon{
+    height: 24px;
+    width: 24px;
+}
+.card-footer{
+    border: none;
+    background: none;
+}
+.style{
+    background-color: #21B573;
+    height: 35px;
+    width: 135px;
+    border-radius: 33px;
+    color: white;
+    border: none;
+}
+.card-title{
+font-family: Poppins;
+font-weight: 500px;
+font-size: 24px;
+line-height: 36px;
+color: #413960;
+}
+.card-body>p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #585859;
+}
+.col{
+    height: 483px;
+    width: 370px;
+    margin: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.h-100{
+    border: none;
+}
